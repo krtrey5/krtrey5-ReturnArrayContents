@@ -34,6 +34,7 @@ public class Lab {
         for(int i = 0; i < nums.length; i++){
         Nums = Nums + nums[i] + " ";
     }
+    //test
     return Nums;
     }
 }
